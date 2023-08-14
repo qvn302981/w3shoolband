@@ -1,0 +1,86 @@
+@media (max-width: 63.9375em){
+    .btn{
+        padding: 15px 16px;
+    }
+
+    .contact-form .form-control{
+        padding: 15px;
+    }
+
+    .socia-list{
+        font-size: 48px;
+    }
+    #footer .socia-list a {
+        margin: 0 8px;
+    }
+
+    #footer .copyright{
+        margin: 0 8px;
+        padding: 0 12px;
+        display: inline-block;
+    }
+    .contact-info{
+        line-height: 2;
+    }
+}
+
+
+@media (max-width: 46.1875em) {
+    #header{
+        overflow: hidden;
+    }
+    .s-full-width,
+    .s-col-full {
+        width: 100% !important;
+    }
+
+    #header .mobile-menu-btn{
+        display: block;
+    }
+    #header .search-button{
+        display: none;
+    }
+
+    #nav .subnav{
+        position: initial;
+        background-color: #333;
+    }
+
+    #nav .subnav a{
+        color: #fff;
+        padding: 5px 41px;
+    }
+
+
+    #nav{
+        display: block;
+    }
+    #nav > li {
+        display: block;
+    }
+    #nav > li:first-child {
+        display: inline-block;
+    }
+
+    #content .member-item{
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    #content .member-img{
+        width: 60%;
+    }
+    
+
+    .s-mt-8{
+        margin-top: 8px !important;
+    }
+
+    .contact-form{
+        margin-top: 32px;
+    }
+
+}
+
+    
+
